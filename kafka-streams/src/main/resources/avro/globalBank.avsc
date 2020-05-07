@@ -1,0 +1,11 @@
+{
+     "type": "record",
+     "namespace": "com.example",
+     "name": "GlobalBank",
+     "version": "1",
+     "fields": [
+       { "name": "bankname", "type": "string", "doc": "Bank Name" },
+       { "name": "accountname", "type": "string", "doc": "Account Holder Name" },
+       { "name": "amount", "type": "int", "doc": "Balance Amount" }
+     ]
+}
