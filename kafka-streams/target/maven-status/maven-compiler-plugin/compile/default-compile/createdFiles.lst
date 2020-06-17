@@ -1,7 +1,0 @@
-com\example\GlobalBank.class
-com\example\TransactionProducer.class
-com\example\GlobalBank$Builder.class
-com\mapper\BalanceReducer.class
-com\mapper\TransactionParseMapper.class
-com\example\BankRouterStream.class
-com\example\GlobalBank$1.class
